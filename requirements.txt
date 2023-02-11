@@ -1,0 +1,11 @@
+python-dotenv
+python-telegram-bot
+schedule
+requests
+pandas
+datetime
+numpy
+matplotlib
+unidecode
+tweepy
+mastodon.py
